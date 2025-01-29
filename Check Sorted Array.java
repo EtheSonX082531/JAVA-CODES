@@ -1,4 +1,4 @@
-package JavaArray;
+//package JavaArray;
 import java.util.*;
 public class CheckSort {
     public static void checkSort(int[] arr, int n){
